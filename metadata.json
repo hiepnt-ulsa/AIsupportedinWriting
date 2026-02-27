@@ -1,0 +1,5 @@
+{
+  "name": "AI Headshot Studio",
+  "description": "Transform casual selfies into professional headshots using AI. Upload a casual photo and choose from various professional styles.",
+  "requestFramePermissions": []
+}
